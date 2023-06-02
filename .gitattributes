@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-analytic_scripts/Stereo_seq_embryo_heart/AllTimePoint_h5ad.zip filter=lfs diff=lfs merge=lfs -text
-analytic_scripts/Stereo_seq_embryo_limb/commot_adata_limb1_vf.h5ad filter=lfs diff=lfs merge=lfs -text
-benchmarking_scripts/extended_benchmarking/HDST_segmentation/CN13_D2_HE.tiff filter=lfs diff=lfs merge=lfs -text
+benchmarking_scripts/FigureS3_extended_benchmarking/HDST_segmentation/CN13_D2_HE.tiff filter=lfs diff=lfs merge=lfs -text
+analytic_scripts/Figure4_Stereo_seq_embryo_limb/commot_adata_limb1_vf.h5ad filter=lfs diff=lfs merge=lfs -text
+analytic_scripts/Figure5_Stereo_seq_embryo_heart/AllTimePoint_h5ad.zip filter=lfs diff=lfs merge=lfs -text
